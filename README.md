@@ -2,8 +2,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of Payao</span>**
-- 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
+- 💡 Interested in **Game Development**
+- 🎯 Current Goal: Learn game creation tools
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
 
 ---
