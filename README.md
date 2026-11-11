@@ -1,7 +1,7 @@
 # Hi there, I'm <span type="placeholder" placeholder-type="person">Sorawit Suksai</span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of Payao</span>**
+- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of Phayao</span>**
 - 💡 Interested in **Game Development**
 - 🎯 Current Goal: Learn game creation tools
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
