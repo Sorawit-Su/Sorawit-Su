@@ -1,7 +1,7 @@
 # Hi there, I'm <span type="placeholder" placeholder-type="person">Sorawit Suksai</span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place"></span>**
+- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of Payao</span>**
 - 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
